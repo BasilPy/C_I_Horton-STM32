@@ -3,8 +3,8 @@
 
 int main(void){
 	printf("This is a diary.\n");
-	printf("827\n")
-	printf("Who am I?\n");
+	printf("827\n");
+	printf("#Who am I?\n");
 	printf("I am a person from Russia and ethnically russian. \nI am against the war in Ukraine which my country started.\n");
 	printf("I left Russia almost two years ago, and \nI need to continue to be alive.\n");
 	printf("While I'm writing those sentences\nI am aware a lot of people are dying\nand a lot of refugees from Ukraine in Germany, \nin other counties, including their own, \n\
